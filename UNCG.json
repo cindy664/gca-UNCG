@@ -1,4 +1,52 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-}
+[
+  {
+    "item": "home",
+    "schoolname": "University of North Carolina Greensboro",
+    "abbreviation": "UNCG",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": "PMS 2767",
+    "primaryBrandColor": "PMS 1235",
+    "buttonColor": "#0F2044",
+    "buttonTextColor": "#ffffff",
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/uncg.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/uncg.png",
+    "partner_id": "001Rd000008ZfA9IAK",
+    "programName": "UNCG Global Career Accelerator",
+    "termsandConditionsPolicy": "https://uc.uncg.edu/brand-guide/university-colors/ https://www.uncg.edu/terms-of-use/",
+    "credits": "6 UNCG credits",
+    "startDate": "May 13",
+    "endDate": "July 23"
+  },
+  {
+    "item": "about",
+    "schoolname": "University of North Carolina Greensboro",
+    "genericProgramName": "The Global Career Accelerator",
+    "abbreviation": "UNCG",
+    "phone": "(336) 360-6645",
+    "credits": "6 UNCG credits",
+    "programFee": "+ 2,150",
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "2026 Summer registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "6 UNCG credits",
+    "abbreviation": "UNCG",
+    "registrationMessage": "2026 Summer registration is now open."
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "UNCG Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(336) 360-6645",
+    "abbreviation": "UNCG"
+  },
+  {
+    "item": "begin",
+    "credits": "6 UNCG credits",
+    "abbreviation": "UNCG",
+    "phone": "(336) 360-6645"
+  }
+]
